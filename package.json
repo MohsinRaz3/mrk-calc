@@ -1,9 +1,11 @@
 {
-  "name": "mrk-calc",
+  "name": "mohsin-calc",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
+  "bin": {
+    "mohsin-calc":"bin/index.js"},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
